@@ -1,0 +1,32 @@
+{
+  "name": "ebp-treeview",
+  "authors": [
+    "姚世宁 <ysnlvlqw@msn.com>"
+  ],
+  "description": "A tree control for ebp platform.",
+  "main": [
+    "dist/ebp-treeview.js",
+    "dist/assets/styles/sass/ebp-treeview.scss"
+  ],
+  "keywords": [
+    "angular",
+    "ng",
+    "ebp",
+    "tree",
+    "treeview"
+  ],
+  "license": "MIT",
+  "homepage": "http://www.yaoshining.com",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "angular": "1.5.8",
+    "jquery": "*",
+    "angular-resource": "1.5.8"
+  }
+}
